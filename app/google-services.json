@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269204882922",
+    "project_id": "etudiantdata",
+    "storage_bucket": "etudiantdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269204882922:android:11f1e50a183b8546d91e93",
+        "android_client_info": {
+          "package_name": "com.example.etudiantapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269204882922-ngu37hkglpuj6fo5a9iu7mlv71rnbkt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQncFHyix8z9abB5vdDovX2XF0Ky4noYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269204882922-ngu37hkglpuj6fo5a9iu7mlv71rnbkt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
